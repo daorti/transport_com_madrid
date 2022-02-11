@@ -1,7 +1,7 @@
 
 
 import pandas as pd
-from ayto_madrid.src.main_classes import TransportData, StationInfo
+from src.main_classes import TransportData, StationInfo
 import logging
 
 # Logger
@@ -20,8 +20,8 @@ class BiciMad(TransportData):
             - data: Pandas DataFrame, BiciMAD specific data, provided by the client.
         """
         try:
-            #data = pd.read_csv(self.data_path) # Not Test path
-            data = pd.read_csv("/Users/antoniojimenez/Desktop/Transports_Madrid/ayto_madrid/data/bicimad_clean.csv") # Test path
+            data = pd.read_csv(self.data_path) # Not Test path
+            #data = pd.read_csv("/Users/antoniojimenez/Desktop/Transports_Madrid/ayto_madrid/data/bicimad_clean.csv") # Test path
             return data
         except Exception as e:
             logger.error('Error. Unable to obtain BiciMAD data.', e)
@@ -39,8 +39,8 @@ class Emt(TransportData):
             - data: Pandas DataFrame, EMT specific data, provided by the client.
         """
         try:
-            #data = pd.read_csv(self.data_path) # Not Test path
-            data = pd.read_csv("/Users/antoniojimenez/Desktop/Transports_Madrid/ayto_madrid/data/emt_clean.csv") # Test path
+            data = pd.read_csv(self.data_path) # Not Test path
+            #data = pd.read_csv("/Users/antoniojimenez/Desktop/Transports_Madrid/ayto_madrid/data/emt_clean.csv") # Test path
             return data
         except Exception as e:
             logger.error('Error. Unable to obtain EMT data.', e)

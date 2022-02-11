@@ -1,8 +1,8 @@
 
 
 import logging
-from ayto_madrid.src.main_classes import GeodesicDistance
-import ayto_madrid.src.sub_classes as sc
+from src.main_classes import GeodesicDistance
+import src.sub_classes as sc
 import yaml
 
 # Logger
