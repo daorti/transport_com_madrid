@@ -1,0 +1,12 @@
+# App info
+algorithm_id: transportes_ayto_madrid
+version: v0.1.0
+
+# Station info parameters
+transportation_type: bicimad
+station_id: 151
+
+# Coordinates
+coordinate_1: -3.7098576727976815, 40.459991075120776
+coordinate_2: -3.6982209, 40.4385316
+
