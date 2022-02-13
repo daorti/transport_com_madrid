@@ -1,0 +1,127 @@
+'11/02/2022 15:32:03' - root - DEBUG - Checking params
+'11/02/2022 15:32:03' - root - INFO - Creating EMT object
+'11/02/2022 15:32:03' - root - INFO - EMT dataset charged
+'11/02/2022 15:32:03' - root - INFO - Station general info displayed
+'11/02/2022 15:32:03' - root - INFO - Station specific info displayed
+'11/02/2022 15:32:03' - root - DEBUG - Checking coordinates
+'11/02/2022 15:32:03' - root - INFO - Calculating distance between point station and given coordinates
+'11/02/2022 15:34:57' - root - DEBUG - Checking params
+'11/02/2022 15:34:57' - root - INFO - Creating EMT object
+'11/02/2022 15:34:57' - root - INFO - EMT dataset charged
+'11/02/2022 15:34:57' - root - INFO - Station general info displayed
+'11/02/2022 15:34:57' - root - INFO - Station specific info displayed
+'11/02/2022 15:34:57' - root - DEBUG - Checking coordinates
+'11/02/2022 15:34:57' - root - INFO - Program finished
+'11/02/2022 15:35:47' - root - DEBUG - Checking params
+'11/02/2022 15:35:47' - root - DEBUG - Checking params
+'11/02/2022 15:35:47' - root - INFO - Program finished
+'11/02/2022 15:35:56' - root - DEBUG - Checking params
+'11/02/2022 15:37:10' - root - DEBUG - Checking params
+'11/02/2022 15:37:10' - root - DEBUG - Checking params
+'11/02/2022 15:37:10' - root - INFO - Program finished
+'11/02/2022 15:37:24' - root - DEBUG - Checking params
+'11/02/2022 15:37:24' - root - DEBUG - Checking params
+'11/02/2022 15:37:24' - root - INFO - Program finished
+'11/02/2022 15:37:36' - root - DEBUG - Checking params
+'11/02/2022 15:37:36' - root - INFO - Creating BICIMAD object
+'11/02/2022 15:37:36' - root - INFO - BICIMAD dataset charged
+'11/02/2022 15:37:36' - root - INFO - Program finished
+'11/02/2022 15:37:51' - root - DEBUG - Checking params
+'11/02/2022 15:37:51' - root - INFO - Creating EMT object
+'11/02/2022 15:37:51' - root - INFO - EMT dataset charged
+'11/02/2022 15:37:51' - root - INFO - Station general info displayed
+'11/02/2022 15:37:51' - root - INFO - Station specific info displayed
+'11/02/2022 15:37:51' - root - DEBUG - Checking coordinates
+'11/02/2022 15:37:51' - root - INFO - Program finished
+'11/02/2022 15:38:02' - root - DEBUG - Checking params
+'11/02/2022 15:38:02' - root - INFO - Creating EMT object
+'11/02/2022 15:38:02' - root - INFO - EMT dataset charged
+'11/02/2022 15:38:02' - root - INFO - Station general info displayed
+'11/02/2022 15:38:02' - root - INFO - Station specific info displayed
+'11/02/2022 15:38:02' - root - DEBUG - Checking coordinates
+'11/02/2022 15:38:02' - root - INFO - Program finished
+'11/02/2022 15:38:50' - root - DEBUG - Checking params
+'11/02/2022 15:38:50' - root - INFO - Creating BICIMAD object
+'11/02/2022 15:38:50' - root - INFO - BICIMAD dataset charged
+'11/02/2022 15:38:50' - root - INFO - Program finished
+'11/02/2022 15:42:46' - root - DEBUG - Checking params
+'11/02/2022 15:42:46' - root - INFO - Creating BICIMAD object
+'11/02/2022 15:42:46' - root - INFO - BICIMAD dataset charged
+'11/02/2022 15:42:46' - root - INFO - Station general info displayed
+'11/02/2022 15:42:46' - root - INFO - Station specific info displayed
+'11/02/2022 15:42:46' - root - DEBUG - Checking coordinates
+'11/02/2022 15:42:46' - root - INFO - Calculating distance between point station and given coordinates
+'11/02/2022 15:42:46' - root - INFO - Program finished
+'11/02/2022 15:44:21' - root - DEBUG - Checking params
+'11/02/2022 15:44:21' - root - INFO - Creating BICIMAD object
+'11/02/2022 15:44:21' - root - INFO - BICIMAD dataset charged
+'11/02/2022 15:44:21' - root - INFO - Program finished
+'11/02/2022 15:44:51' - root - DEBUG - Checking params
+'11/02/2022 15:44:51' - root - INFO - Creating BICIMAD object
+'11/02/2022 15:44:51' - root - INFO - BICIMAD dataset charged
+'11/02/2022 15:44:51' - root - INFO - Program finished
+'11/02/2022 15:46:21' - root - DEBUG - Checking params
+'11/02/2022 15:46:21' - root - INFO - Creating BICIMAD object
+'11/02/2022 15:46:21' - root - INFO - BICIMAD dataset charged
+'11/02/2022 15:46:21' - root - INFO - Station general info displayed
+'11/02/2022 15:46:21' - root - INFO - Station specific info displayed
+'11/02/2022 15:46:21' - root - DEBUG - Checking coordinates
+'11/02/2022 15:46:21' - root - INFO - Calculating distance between point station and given coordinates
+'11/02/2022 15:46:21' - root - INFO - Program finished
+'11/02/2022 15:46:40' - root - DEBUG - Checking params
+'11/02/2022 15:46:40' - root - INFO - Creating BICIMAD object
+'11/02/2022 15:46:40' - root - INFO - BICIMAD dataset charged
+'11/02/2022 15:46:40' - root - INFO - Station general info displayed
+'11/02/2022 15:46:40' - root - INFO - Station specific info displayed
+'11/02/2022 15:46:40' - root - DEBUG - Checking coordinates
+'11/02/2022 15:46:40' - root - INFO - Calculating distance between point station and given coordinates
+'11/02/2022 15:46:40' - root - INFO - Program finished
+'11/02/2022 15:48:29' - root - DEBUG - Checking params
+'11/02/2022 15:48:50' - root - DEBUG - Checking params
+'11/02/2022 15:49:02' - root - DEBUG - Checking params
+'11/02/2022 15:49:02' - root - DEBUG - Checking params
+'11/02/2022 15:49:02' - root - CRITICAL - Error: Transport type is not correct
+'11/02/2022 15:49:02' - root - INFO - Program finished
+'13/02/2022 11:26:22' - root - DEBUG - Checking params
+'13/02/2022 11:26:22' - root - DEBUG - Checking params
+'13/02/2022 11:26:22' - root - CRITICAL - Error: Transport type is not correct
+'13/02/2022 11:26:22' - root - INFO - Program finished
+'13/02/2022 11:45:47' - root - DEBUG - Checking params
+'13/02/2022 11:45:47' - root - INFO - Creating BICIMAD object
+'13/02/2022 11:45:47' - root - INFO - BICIMAD dataset charged
+'13/02/2022 11:45:47' - root - CRITICAL - ID and name not found in the dataset
+'13/02/2022 11:45:47' - root - INFO - Program finished
+'13/02/2022 11:46:30' - root - DEBUG - Checking params
+'13/02/2022 11:46:30' - root - INFO - Creating BICIMAD object
+'13/02/2022 11:46:30' - root - INFO - BICIMAD dataset charged
+'13/02/2022 11:46:30' - root - INFO - Station general info displayed
+'13/02/2022 11:46:30' - root - INFO - Station specific info displayed
+'13/02/2022 11:46:30' - root - DEBUG - Checking coordinates
+'13/02/2022 11:46:30' - root - INFO - Calculating distance between point station and given coordinates
+'13/02/2022 11:46:30' - root - INFO - Program finished
+'13/02/2022 12:21:27' - root - DEBUG - Checking params
+'13/02/2022 12:21:27' - root - INFO - Creating BICIMAD object
+'13/02/2022 12:21:27' - root - INFO - BICIMAD dataset charged
+'13/02/2022 12:21:27' - root - INFO - Station general info displayed
+'13/02/2022 12:21:27' - root - INFO - Station specific info displayed
+'13/02/2022 12:21:27' - root - DEBUG - Checking coordinates
+'13/02/2022 12:21:27' - root - INFO - Calculating distance between point station and given coordinates
+'13/02/2022 12:21:27' - root - INFO - Program finished
+'13/02/2022 12:21:58' - root - DEBUG - Checking params
+'13/02/2022 12:21:58' - root - INFO - Creating BICIMAD object
+'13/02/2022 12:21:58' - root - INFO - BICIMAD dataset charged
+'13/02/2022 12:21:58' - root - CRITICAL - ID and name not found in the dataset
+'13/02/2022 12:21:58' - root - INFO - Program finished
+'13/02/2022 12:30:15' - root - DEBUG - Checking params
+'13/02/2022 12:30:15' - root - INFO - Creating BICIMAD object
+'13/02/2022 12:30:15' - root - INFO - BICIMAD dataset charged
+'13/02/2022 12:30:15' - root - CRITICAL - ID and name not found in the dataset
+'13/02/2022 12:30:15' - root - INFO - Program finished
+'13/02/2022 13:16:40' - root - DEBUG - Checking params
+'13/02/2022 13:16:40' - root - INFO - Creating BICIMAD object
+'13/02/2022 13:16:40' - root - INFO - BICIMAD dataset charged
+'13/02/2022 13:16:40' - root - INFO - Station general info displayed
+'13/02/2022 13:16:40' - root - INFO - Station specific info displayed
+'13/02/2022 13:16:40' - root - DEBUG - Checking coordinates
+'13/02/2022 13:16:40' - root - INFO - Calculating distance between point station and given coordinates
+'13/02/2022 13:16:40' - root - INFO - Program finished
